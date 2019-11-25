@@ -1,2 +1,2 @@
 # PretermBirthChallenge
-Code for DREAM preterm birtch challenge
+Code for DREAM preterm birth challenge
